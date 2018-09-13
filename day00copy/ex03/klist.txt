@@ -1,0 +1,7 @@
+Credentials cache: API:7475
+        Principal: widraugr@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 20 11:17:55 2018  Aug 20 21:18:36 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Aug 20 11:17:57 2018  Aug 20 21:18:36 2018  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Aug 20 11:17:57 2018  Aug 20 21:18:36 2018  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
