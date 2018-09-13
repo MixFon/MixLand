@@ -1,0 +1,23 @@
+#include <unistd.h>
+
+void ft_print_numbers(void);
+
+int main()
+{
+  ft_print_numbers();
+  return (0);
+}
+
+void ft_print_numbers(void)
+{
+  int i = 0;
+  char a = '0';
+  while (i < 10)
+    {
+     write(1, &a, 1);
+      write(1, " ", 1);
+      i = i + 1;
+       a = a + 1;
+    }
+  write(1, "\n", 1);  
+}
